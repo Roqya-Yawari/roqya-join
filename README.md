@@ -1,6 +1,6 @@
 # Contributing to the Community
 
-Welcome to the community! To join us, please follow these steps:
+To join us, please follow these steps:
 
 1. **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository under your account.
 2. **Create a New Branch**: In your forked repository, create a new branch with your name (e.g., `yourname-join`).
